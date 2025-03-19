@@ -1,16 +1,78 @@
-# galaxy_planet
+🌌 Galaxy Planets (Animator)
 
-A new Flutter project.
+💡 Overview
 
-## Getting Started
+"Galaxy Planets (Animator)" is an exciting mobile application built using Flutter, focusing on creating captivating animations. The app incorporates concepts such as Implicit Animation and Explicit Animation, along with additional features like Shared Preferences and a Local JSON Bank. It offers a range of functionalities designed to provide users with an immersive and visually stunning experience.
 
-This project is a starting point for a Flutter application.
+✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+🌍 Implicit & Explicit Animations: Smooth and engaging animations to enhance user experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+💍 Planet Details Fetching: Displays detailed information about various planets.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+⭐ Favorites: Users can save their favorite planets for quick access.
+
+🌟 Light & Dark Themes: Toggle between light and dark modes for a customized visual experience.
+
+🔐 Shared Preferences: Saves user preferences and settings.
+
+📂 Local JSON Bank: Uses a locally stored JSON file for retrieving planet details.
+
+🎨 Splash Screen: A visually appealing splash screen on app launch.
+
+🌕 Detailed Planet Screens: Provides in-depth information and animations for each planet.
+
+⚛️ Technologies Used
+
+💻 Flutter: Cross-platform mobile development framework.
+
+📈 Dart: Programming language for Flutter.
+
+🛠 Provider: State management solution.
+
+🛡 Shared Preferences: Persistent storage for user preferences.
+
+🎭 Custom Animations: Implicit and explicit animations for an engaging UI.
+
+📑 JSON Parsing: Handling local JSON data for planet details.
+
+🔄 Installation
+
+Clone the repository:
+
+git clone https://github.com/yourusername/galaxy-planets-animator.git
+
+Navigate to the project directory:
+
+cd galaxy-planets-animator
+
+Install dependencies:
+
+flutter pub get
+
+Run the application:
+
+flutter run
+
+🖼 Screenshots
+
+![ScreenShot 1](screenshot/01.png)
+![ScreenShot 2](screenshot/02.png)
+![ScreenShot 3](screenshot/03.png)
+![ScreenShot 4](screenshot/04.png)
+![ScreenShot 5](screenshot/05.png)
+
+
+👨‍👩‍👦 Contribution
+
+Contributions are welcome! Follow these steps:
+
+Fork the repository.
+
+Create a new branch (feature-branch).
+
+Commit your changes.
+
+Push to the branch.
+
+Open a pull request.
